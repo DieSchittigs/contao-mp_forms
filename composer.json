@@ -1,5 +1,5 @@
 {
-  "name": "terminal42/contao-mp_forms",
+  "name": "dieschittigs/contao-mp_forms",
   "description": "An extension for Contao Open Source CMS to create multi steps forms using the form generator",
   "keywords": ["contao", "forms", "multi", "multipage", "step"],
   "type": "contao-bundle",
